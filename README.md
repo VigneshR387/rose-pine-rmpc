@@ -39,14 +39,14 @@ git clonehttps://github.com/VigneshR387/rose-pine-rmpc.git
 
 #### Default ( No Border)
 
-<img width="500" alt="Rosé Pine Dawn with rmpc (default no border)"  src="https://github.com/user-attachments/assets/684d5bd2-182a-4896-a709-3ab132eed7cc" />
+<img width="450" alt="Rosé Pine Dawn with rmpc (default no border)"  src="https://github.com/user-attachments/assets/684d5bd2-182a-4896-a709-3ab132eed7cc" />
  />
 
 #### Layout 1 ( No Border )
 
-<img width="500" alt="Rosé Pine Dawn with rmpc (Layout 1)" src="https://github.com/user-attachments/assets/359706d6-cbd3-4252-a7cd-7e8b6440b670" />
+<img width="450" alt="Rosé Pine Dawn with rmpc (Layout 1)" src="https://github.com/user-attachments/assets/359706d6-cbd3-4252-a7cd-7e8b6440b670" />
 
-### Cava
+### CAVA
 Refer to rmpc documentation for setting up cava : [Docs](https://rmpc.mierak.dev/configuration/cava/).
 
 

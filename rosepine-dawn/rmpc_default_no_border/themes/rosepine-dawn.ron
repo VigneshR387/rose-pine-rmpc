@@ -337,6 +337,13 @@
             ]
         )
     },
+    cava: (
+     // Only enable one at a time
+     
+     // bar_color: Single("#56949f"),
 
+     // bar_color: Rows([ "#286983", "#286983", "#d7827e", "#d7827e", "#b4637a", ])
+
+      bar_color: Gradient({ 0: "#286983", 50: "#d7827e",100: "#b4637a",})
     ),
 )

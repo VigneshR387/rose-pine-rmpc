@@ -7,7 +7,7 @@
     browser_column_widths: [20, 38, 42],
     background_color: "#faf4ed",
     text_color:"#575279" ,
-    header_background_color: "#286983",
+    header_background_color: "#d7827e",
     modal_background_color: "#fffaf3",
     modal_backdrop: false,
     preview_label_style: (fg: "#ea9d34"),
@@ -42,8 +42,8 @@
 
         symbols: ["", "█", "█", "", ""],
         track_style: None,
-        elapsed_style: (fg: "#56949f"),
-        thumb_style: (fg: "#56949f"),
+        elapsed_style: (fg: "#907aa9"),
+        thumb_style: (fg: "#907aa9"),
         use_track_when_empty: true,
     ),
     scrollbar: (
@@ -53,7 +53,7 @@
         thumb_style: (fg: "#56949f"),
     ),
     tab_bar: (
-        active_style: (fg: "#dfdad9", bg: "#56949f", modifiers: "Bold"),
+        active_style: (fg: "#dfdad9", bg: "#b4637a", modifiers: "Bold"),
         inactive_style: (),
     ),
     lyrics: (
@@ -299,8 +299,8 @@
         "input_mode": Pane(Property(
             content: [
                 (kind: Transform(Replace(content: (kind: Property(Status(InputMode()))), replacements: [
-                    (match: "Normal", replace: (kind: Text(" NORMAL "), style: (fg: "#f4ede8", bg: "#d7827e"))),
-                    (match: "Insert", replace: (kind: Text(" INSERT "), style: (fg: "#f4ede8", bg: "#56949f"))),
+                    (match: "Normal", replace: (kind: Text(" NORMAL "), style: (fg: "#f4ede8", bg: "#56949f"))),
+                    (match: "Insert", replace: (kind: Text(" INSERT "), style: (fg: "#f4ede8", bg: "#d7827e"))),
                 ])))
             ], align: Center
         )),

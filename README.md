@@ -15,15 +15,17 @@
 
 ### Rosé Pine
 
-<img width="256" alt="Rosé Pine with App" src="https://github.com/user-attachments/assets/3d9df6a3-0ee3-43f2-b934-83cf8f2806c2" />
+<img width="500" alt="Rosé Pine with rmpc" src="https://github.com/user-attachments/assets/2736a10d-d480-4b5d-ac1e-b90698ba8f1f" />
 
 ### Rosé Pine Moon
 
-<img width="256" alt="Rosé Pine Moon with App" src="https://github.com/user-attachments/assets/0acf279b-492c-4d75-acba-9de1d6cc8fcb" />
+<img width="500" alt="Rosé Pine Moon with rmpc"  src="https://github.com/user-attachments/assets/1642cc72-074d-45e5-8dd6-3bff4d9a042d" />
+ 
 
 ### Rosé Pine Dawn
 
-<img width="256" alt="Rosé Pine Dawn with App" src="https://github.com/user-attachments/assets/fb1b1d16-55e8-45db-b388-7c25250b8022" />
+<img width="500" alt="Rosé Pine Dawn with rmpc" src="https://github.com/user-attachments/assets/db25af42-f3ab-4a15-be9d-8636fb4b7256" />
+ />
 
 ## Thanks to
 

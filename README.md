@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for RMPC</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -8,12 +8,15 @@
 ## Usage
 
 1. Git clone the repository
+```
+git clonehttps://github.com/VigneshR387/rose-pine-rmpc.git
+```
 2. Each variant comes with different layouts. if you prefer the default layout of rmpc, use `rmpc_default`.
 3. Move `rose-pine-(main,moon,dawn).ron` to `$XDG_CONFIG_HOME/rmpc/themes`. If you chose a custom layout, replace the fields inside the `config.ron` with ones provided in the `rmpc_default_no_border/config.ron`. Make sure there are no duplicate fields.
 4. In `config.ron`, set your desired theme: `theme: "rosepine-($variant_name)"`.
 
 > [!NOTE]
-> If you have a custom layout and do not want to overwrite it, copy everything inside the theme file except the `layout` field and replace/append it to the fields in your theme config theme file `$XDG_CONFIG_HOME/rmpc/themes/<your_theme_file>`. Make sure there are no duplicate fields.
+> If you have a custom layout and do not want to overwrite it, copy everything inside the theme file except the `layout` field and replace/append it to the fields in your  config theme file `$XDG_CONFIG_HOME/rmpc/themes/<your_theme_file>`. Make sure there are no duplicate fields.
 
 ## Gallery
 

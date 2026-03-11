@@ -39,13 +39,25 @@ git clonehttps://github.com/VigneshR387/rose-pine-rmpc.git
 
 #### Default ( No Border)
 
-<img width="500" alt="Rosé Pine Dawn with rmpc"  src="https://github.com/user-attachments/assets/684d5bd2-182a-4896-a709-3ab132eed7cc" />
+<img width="500" alt="Rosé Pine Dawn with rmpc (default no border)"  src="https://github.com/user-attachments/assets/684d5bd2-182a-4896-a709-3ab132eed7cc" />
  />
 
 #### Layout 1 ( No Border )
 
-<img width="500" alt="Rosé Pine Dawn with rmpc" src="https://github.com/user-attachments/assets/359706d6-cbd3-4252-a7cd-7e8b6440b670" />
- />
+<img width="500" alt="Rosé Pine Dawn with rmpc (Layout 1)" src="https://github.com/user-attachments/assets/359706d6-cbd3-4252-a7cd-7e8b6440b670" />
+
+### Cava
+Refer to rmpc documentation for setting up cava : [Docs](https://rmpc.mierak.dev/configuration/cava/).
+
+
+#### Gradient
+<img width="300" alt="Cava Gradient" src="https://github.com/user-attachments/assets/37d7b5ec-fc66-4087-b975-c641ac09086f" />
+
+#### Rows
+<img width="300" alt="Cava Rows" src="https://github.com/user-attachments/assets/354d103e-9f7d-4bc5-91df-43ba63934e6f"  />
+
+#### Single
+<img width="300" alt="Cava Single" src="https://github.com/user-attachments/assets/4e481d36-5f23-4ff3-a4c7-6e3c00a2dd63" />
 
 ## Thanks to
 

@@ -36,11 +36,13 @@
 
 #### Default ( No Border)
 
-<img width="500" alt="Rosé Pine Dawn with rmpc" src="https://github.com/user-attachments/assets/db25af42-f3ab-4a15-be9d-8636fb4b7256" />
+<img width="500" alt="Rosé Pine Dawn with rmpc"  src="https://github.com/user-attachments/assets/684d5bd2-182a-4896-a709-3ab132eed7cc" />
+ />
 
 #### Layout 1 ( No Border )
 
-<img width="500" alt="Rosé Pine Dawn with rmpc" src="https://github.com/user-attachments/assets/db25af42-f3ab-4a15-be9d-8636fb4b7256" />
+<img width="500" alt="Rosé Pine Dawn with rmpc" src="https://github.com/user-attachments/assets/359706d6-cbd3-4252-a7cd-7e8b6440b670" />
+ />
 
 ## Thanks to
 
